@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2025-11-28T06:56:08.595Z",
+    "version": "1.5.0",
+    "generatedAt": "2025-12-26T03:23:10.443Z",
     "templateType": "center_slider",
     "propertyId": "99018992-f4f8-4486-b26e-b1ff4c53b3a3",
     "homepageId": "587e561b-3f76-48fb-8049-e4ba6d033f11"
@@ -608,7 +608,7 @@
   "rooms": [
     {
       "id": "2cb6fa66-d16d-42f2-a005-0b0bd22ffab7",
-      "name": "201호",
+      "name": "201호(투룸)",
       "description": "분리형 : 거실+주방+침대룸1+화장실2",
       "roomInfo": "[ 인원추가(1박기준/현장결제) ]\n12개월 이상 1인 20,000원 (1박기준/현장결제)\n-12개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -638,6 +638,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -778,7 +779,7 @@
     },
     {
       "id": "b994f260-97d9-4d8e-a200-20ff7fb4a2e8",
-      "name": "202호",
+      "name": "202호(투룸)",
       "description": "분리형 : 거실+주방+침대룸1+화장실2",
       "roomInfo": "[ 인원추가(1박기준/현장결제) ]\n12개월 이상 1인 20,000원 (1박기준/현장결제)\n-12개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -809,6 +810,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -979,6 +981,7 @@
       "roomStructures": [
         "테라스"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -1112,7 +1115,7 @@
     },
     {
       "id": "bc988932-b733-4096-8211-e0196ab09519",
-      "name": "301호",
+      "name": "301호(투룸)",
       "description": "분리형 : 거실+주방+침대룸1+화장실2",
       "roomInfo": "[ 인원추가(1박기준/현장결제) ]\n12개월 이상 1인 20,000원 (1박기준/현장결제)\n-12개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -1143,6 +1146,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -1283,7 +1287,7 @@
     },
     {
       "id": "96182696-949c-453b-bb2d-ff40c3cfa2dc",
-      "name": "302호",
+      "name": "302호(투룸)",
       "description": "분리형 : 거실+주방+침대룸1+화장실2",
       "roomInfo": "[ 인원추가(1박기준/현장결제) ]\n12개월 이상 1인 20,000원 (1박기준/현장결제)\n-12개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -1314,6 +1318,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -1454,7 +1459,7 @@
     },
     {
       "id": "0a367a63-3ba9-450f-b77d-67aeaf19fcd0",
-      "name": "303호",
+      "name": "303호(투룸)",
       "description": "분리형 : 거실+주방+침대룸1+화장실2",
       "roomInfo": "",
       "group": null,
@@ -1488,6 +1493,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -1666,6 +1672,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -1852,6 +1859,7 @@
         "테라스",
         "거실분리형"
       ],
+      "status": "active",
       "images": [
         {
           "thumbnail": [
@@ -2023,7 +2031,7 @@
     "seo": {
       "title": "고성 멍스테이 - 사랑하는 반려견과 함께하는 여행 즐거운 추억을 만들어보세요.",
       "description": "분주하고 지친 도시인에게 일상탈출을 위한 특별한 휴식처\n고성 멍스테이에 오신 것을 환영합니다.",
-      "keywords": "펜션,고성펜션,강원도펜션,강원도고성펜션,고성,애견동반 ,애견펜션,오션뷰,단체,강원도애견동반펜션"
+      "keywords": "펜션,고성펜션,강원도펜션,강원도고성펜션,고성,애견동반 ,애견펜션,오션뷰,단체,강원도애견동반펜션,공용바베큐,불멍"
     },
     "socialLinks": {},
     "customFields": {
@@ -2302,7 +2310,7 @@
                     {
                       "id": "a2ec2b87-dd1b-46db-8ceb-716bd946989b",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/587e561b-3f76-48fb-8049-e4ba6d033f11/main_about/1762746881519-iyw4chaz51.jpg",
-                      "sortOrder": 1,
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "9a496c75-84bc-417d-b913-d159fd22ed22"
